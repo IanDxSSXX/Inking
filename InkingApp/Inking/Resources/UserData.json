@@ -1,0 +1,42 @@
+
+[
+    {
+        "userID" : "torinoss",
+        "username" : "书法帅哥",
+        "password" : "hhhhhhh",
+        "level" : 0,
+        "avatar" : "1",
+        "signature" : "Me0"
+    },
+    {
+        "userID" : "lm",
+        "username" : "孤谦",
+        "password" : "牛",
+        "level" : 0,
+        "avatar" : "8",
+        "signature" : "Me0"
+    },{
+        "userID" : "sanQianWorld",
+        "username" : "三千世界",
+        "password" : "66666",
+        "level" : 1,
+        "avatar" : "9",
+        "signature" : "Me0"
+    },
+    {
+        "userID" : "IwanttoBeSeucessful",
+        "username" : "我想成为书法家",
+        "password" : "牛",
+        "level" : 0,
+        "avatar" : "10",
+        "signature" : "Me0"
+    },
+    {
+        "userID" : "hhh",
+        "username" : "人生如梦",
+        "password" : "66666",
+        "level" : 300,
+        "avatar" : "11",
+        "signature" : "Me0"
+    }
+]
